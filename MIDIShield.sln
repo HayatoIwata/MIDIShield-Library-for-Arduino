@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D09F0D45-40A6-4C8E-A855-2554D5E1C07F}"
+	ProjectSection(SolutionItems) = preProject
+		MIDIShield.h = MIDIShield.h
+		MIDIShieldIO.cpp = MIDIShieldIO.cpp
+		MIDIShieldIO.h = MIDIShieldIO.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
